@@ -1,3 +1,3 @@
 # A simple ping pong game, made in JavaScript.
-To see this game visi this link: https://410noman.github.io/ping-pong-game/
+To see this game visi this link: https://410noman.github.io/ping-pong-game/<br>
 The Ping Pong project is simply in HTML, CSS, and JavaScript. Taking about the features of this game, the user has to strike back the moving ping ball towards the opponent court. If he/she fails to touch the ball, then the opponent player (i.e. computer) wins that round. And the game will be over after the 5 continuous wins of the same team. The pc control of the game is also very simple. The player just has to use up and down arrow keys to move or slide the stick. You can press any key to start or restart the game.
